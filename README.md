@@ -1,21 +1,20 @@
  申请Freenom域名的正确做法  https://1drv.ms/w/s!Akco49yyqyqDtFXjm4iy26Mvv-ES?e=cCC6Wl
 
- CloudFlare Workers 被墙解决方案  https://1drv.ms/w/s!Akco49yyqyqDtFK69rvLkNevKxyY?e=HegeOL
+ CloudFlare Workers 被q解决方案  https://1drv.ms/w/s!Akco49yyqyqDtFK69rvLkNevKxyY?e=HegeOL
 
- Heroku搭建教程  https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
+ 搭建教程  https://1drv.ms/w/s!Akco49yyqyqDtFOlWqW7k2FHnBnG?e=Q4sZl2
 
 
  讨论群组  https://t.me/herokuvless
 
-## v2ray-heroku
+## v2k
 
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/qq198812/Hreoku.git)https://heroku.com/deploy?template=
 
 ## 注意事项
-### heroku上部署v2ray
-- [x] 支持VMess和VLESS两种协议
-- [x] 使用v2ray最新版构建
-
+### hk上部署v
+- [x] 支持VMe和VLE两种协议
+- [x] 使用v2
 
 
 
